@@ -6,7 +6,7 @@ from pathlib import Path
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-DATA = Path("data/hair_products.csv")
+DATA = Path("hair_products.csv")
 
 st.set_page_config(page_title="Hair Product Recommender", page_icon="💇🏽‍♀️", layout="wide")
 # Add gradient background and custom CSS
@@ -282,3 +282,4 @@ if st.button("Get recommendations"):
                 cols_to_show.insert(2, "price")
             st.subheader("Recommended for you")
             st.dataframe(recs[cols_to_show].reset_index(drop=True))
+
