@@ -1,0 +1,7 @@
+product_name,category,curl_patterns,porosity,concerns,ingredients,protein_treatment,sulfate_free,silicone_free,glycerin_present,finish,hold_level,price_usd,brand,image_filename
+Kinky-Curly Knot Today,conditioner,"3B,3C,4A","low,medium","slip,detangle","mango extract,slippery elm,marshmallow root",0,1,1,1,moisture,n/a,12.99,Kinky-Curly,kinky-curly-knot-today.jpg
+Eco Style Olive Oil Gel,gel,"3B,3C,4A,4B,4C","low,medium,high","definition,hold","olive oil,water,carbomer",0,1,0,0,hold,high,3.99,Eco Style,eco-style-olive-oil-gel.jpg
+SheaMoisture Curl Enhancing Smoothie,butter,"4A,4B,4C","low,medium","dryness,shrinkage","shea butter,coconut oil,aloe vera",0,1,1,0,moisture,n/a,15.99,SheaMoisture,shea-curl-enhancing-smoothie.jpg
+Aunt Jackie's Flaxseed Don't Shrink,gel,"3C,4A,4B","low,medium,high","elongation,definition","flaxseed,olive oil,glycerin",0,1,1,1,hold,medium,7.99,Aunt Jackie's,aunt-jackies-flaxseed-dont-shrink.jpg
+Mielle Rosemary Mint Strengthening Shampoo,shampoo,"3C,4A,4B,4C","low,medium,high","growth,scalp","rosemary,biotin,menthol",0,1,1,1,cleanse,n/a,9.99,Mielle,mielle-rosemary-mint-shampoo.jpg
+TGIN Butter Cream Daily Moisturizer,butter,"4B,4C","low,medium","dryness,breakage","shea butter,cocoa butter,vitamin E",0,1,1,0,moisture,n/a,14.99,TGIN,tgin-butter-cream.jpg
