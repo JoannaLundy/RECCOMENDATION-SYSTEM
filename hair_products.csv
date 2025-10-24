@@ -1,7 +1,13 @@
-product_name,category,curl_patterns,porosity,concerns,ingredients,protein_treatment,sulfate_free,silicone_free,glycerin_present,finish,hold_level,price_usd,brand,image_filename
-Kinky-Curly Knot Today,conditioner,"3B,3C,4A","low,medium","slip,detangle","mango extract,slippery elm,marshmallow root",0,1,1,1,moisture,n/a,12.99,Kinky-Curly,kinky-curly-knot-today.jpg
-Eco Style Olive Oil Gel,gel,"3B,3C,4A,4B,4C","low,medium,high","definition,hold","olive oil,water,carbomer",0,1,0,0,hold,high,3.99,Eco Style,eco-style-olive-oil-gel.jpg
-SheaMoisture Curl Enhancing Smoothie,butter,"4A,4B,4C","low,medium","dryness,shrinkage","shea butter,coconut oil,aloe vera",0,1,1,0,moisture,n/a,15.99,SheaMoisture,shea-curl-enhancing-smoothie.jpg
-Aunt Jackie's Flaxseed Don't Shrink,gel,"3C,4A,4B","low,medium,high","elongation,definition","flaxseed,olive oil,glycerin",0,1,1,1,hold,medium,7.99,Aunt Jackie's,aunt-jackies-flaxseed-dont-shrink.jpg
-Mielle Rosemary Mint Strengthening Shampoo,shampoo,"3C,4A,4B,4C","low,medium,high","growth,scalp","rosemary,biotin,menthol",0,1,1,1,cleanse,n/a,9.99,Mielle,mielle-rosemary-mint-shampoo.jpg
-TGIN Butter Cream Daily Moisturizer,butter,"4B,4C","low,medium","dryness,breakage","shea butter,cocoa butter,vitamin E",0,1,1,0,moisture,n/a,14.99,TGIN,tgin-butter-cream.jpg
+product_name,brand,category,curl_patterns,porosity,concerns,ingredients,protein_treatment,sulfate_free,silicone_free,glycerin_present,price_usd
+Mielle Rosemary Mint Strengthening Shampoo,Mielle,shampoo,"3B,3C,4A,4B,4C",medium,"breakage,scalp_balance","rosemary_oil,peppermint,biotin,aloe",1,1,1,0,10.99
+SheaMoisture Manuka Honey & Mafura Oil Shampoo,SheaMoisture,shampoo,"3C,4A,4B,4C",high,"dryness,frizz","manuka_honey,mafura_oil,baobab_oil,shea_butter",0,1,1,0,11.49
+As I Am Curl Clarity Shampoo,As I Am,shampoo,"2C,3A,3B,3C",low,"build_up,definition","cocamidopropyl_betaine,panthenol,citrus_extract",0,1,1,0,9.99
+Camille Rose Sweet Ginger Cleansing Rinse,Camille Rose,shampoo,"2B,2C,3A,3B",low,"build_up,shine","ginger_root,castor_oil,anise_seed",0,1,1,0,12.99
+Cantu Shea Butter Sulfate-Free Cleansing Cream Shampoo,Cantu,shampoo,"3A,3B,3C,4A,4B,4C",medium,"dryness,damage","shea_butter,coconut_oil,almond_oil",0,1,1,1,6.99
+TGIN Triple Moisture Replenishing Conditioner,TGIN,conditioner,"3B,3C,4A,4B",high,"dryness,manageability","shea_butter,argan_oil,amla_oil,aloe",0,1,1,1,13.99
+Aussie Miracle Curls Conditioner,Aussie,conditioner,"2C,3A,3B",low,"definition,frizz","coconut_oil,jojoba_oil,aloe",0,1,0,1,5.99
+Mielle Rosemary Mint Strengthening Conditioner,Mielle,conditioner,"3B,3C,4A,4B,4C",medium,"breakage,scalp_balance","rosemary_oil,peppermint,biotin,wheat_protein",1,1,1,0,10.99
+SheaMoisture Raw Shea Restorative Conditioner,SheaMoisture,conditioner,"3C,4A,4B,4C",high,"damage,dryness","shea_butter,sea_kelp,argon_oil",0,1,1,0,11.99
+Not Your Mother’s Curl Talk Conditioner,Not Your Mother’s,conditioner,"2B,2C,3A",low,"definition,frizz","rice_amino_acids,keratin,grapeseed_oil",1,1,1,1,7.99
+Kinky-Curly Knot Today Leave-In,Kinky-Curly,leave_in,"3A,3B,3C,4A",low,"tangles,definition","slippery_elm,marshmallow_root,mango_extract",0,1,1,1,11.49
+Mielle Pomegranate & Honey Leave-In Conditioner,Mielle,leave_in,"3C,4A,4B",medium,"dryness,definition","pomegranate_extract,honey,baobab_seed_oil",0,1,1,1,12.99
