@@ -1,0 +1,101 @@
+product_name,brand,category,curl_patterns,porosity,concerns,ingredients,protein_treatment,sulfate_free,silicone_free,glycerin_present,price_usd
+Pattern Moisture Pro #1,Pattern,shampoo,2a,low,"dryness,tangles","coconut_oil,honey,rice_water,shea_butter,tea_tree",1,1,1,0,8.04
+Maui Moisture Moisture Melt Silk #2,Maui Moisture,conditioner,2a,low,scalp_balance,"castor_oil,grapeseed_oil,tea_tree",0,1,1,1,15.02
+TGIN Moisture Mist Silk #3,TGIN,leave in,"2a,2b","low,medium",manageability,"biotin,glycolipids,niacinamide,rosewater,tea_tree",0,1,1,1,16.42
+Maui Moisture Renew RX #4,Maui Moisture,shampoo,2a,medium,"frizz,tangles","jojoba_oil,slippery_elm,tea_tree",0,1,1,1,6.98
+Camille Rose Replenish Care #5,Camille Rose,conditioner,"2a,2b",medium,"frizz,tangles","coconut_oil,macadamia_oil,mango_butter,marshmallow_root",1,1,1,0,18.9
+Not Your Mother's Defining Cream Boost #6,Not Your Mother's,leave in,2a,medium,"definition,frizz","grapeseed_oil,niacinamide,rice_water,shea_butter",1,1,1,1,17.38
+Camille Rose Revive Pro #7,Camille Rose,shampoo,"2a,2b","high,medium","breakage,damage","castor_oil,coconut_oil,honey,jojoba_oil,peppermint",1,1,1,1,16.88
+As I Am Slip Boost #8,As I Am,conditioner,"2a,2b",high,"definition,scalp_balance","babassu_oil,hemp_seed_oil,mango_butter,rosewater,shea_butter",0,1,1,0,16.46
+The Mane Choice Defining Cream Daily #9,The Mane Choice,leave in,"2a,2b",high,frizz,"argan_oil,jojoba_oil,rosewater",0,1,1,1,8.38
+TGIN Cleanse Max #10,TGIN,shampoo,"2a,2b,2c",low,"breakage,tangles","argan_oil,grapeseed_oil,marshmallow_root,rosewater",1,1,1,1,9.8
+As I Am Moisture Melt Care #11,As I Am,conditioner,"2b,2c",low,scalp_balance,"avocado_oil,babassu_oil,coconut_oil,macadamia_oil",0,1,0,1,9.27
+Alaffia Softening Milk Care #12,Alaffia,leave in,2b,low,shine,"hemp_seed_oil,honey,rice_water,slippery_elm",0,1,1,0,16.37
+Carol's Daughter Nourish Boost #13,Carol's Daughter,shampoo,2b,medium,"breakage,frizz","argan_oil,honey,marshmallow_root",1,1,1,0,17.74
+Mielle Replenish Glow #14,Mielle,conditioner,"2a,2b",medium,"manageability,shine","babassu_oil,biotin,tea_tree",1,1,0,0,12.28
+Camille Rose Detangler Pro #15,Camille Rose,leave in,"2a,2b",medium,"definition,manageability","aloe,castor_oil,glycolipids,hemp_seed_oil,panthenol",0,1,1,0,11.91
+Aussie Cleanse Essentials #16,Aussie,shampoo,"2a,2b,2c","high,medium","damage,scalp_balance","hemp_seed_oil,panthenol,shea_butter",0,1,1,0,12.95
+OGX Balance Pro #17,OGX,conditioner,"2a,2b",high,tangles,"castor_oil,jojoba_oil,niacinamide",1,1,1,1,7.26
+OGX Curl Spray Care #18,OGX,leave in,"2a,2b",high,shine,"argan_oil,niacinamide,shea_butter,slippery_elm",0,1,1,0,7.28
+Pattern Nourish Silk #19,Pattern,shampoo,2c,low,"scalp_balance,shine","avocado_oil,glycolipids,rice_water,rosewater,slippery_elm",1,1,1,1,7.4
+Maui Moisture Repair Daily #20,Maui Moisture,conditioner,"2c,3a","low,medium","build_up,definition","hemp_seed_oil,honey,rosewater",0,1,1,1,18.86
+Maui Moisture Defining Cream Pro #21,Maui Moisture,leave in,2c,low,"breakage,frizz","aloe,biotin,glycolipids,panthenol,rosewater",0,1,1,1,14.29
+OGX Clarify RX #22,OGX,shampoo,2c,medium,frizz,"avocado_oil,jojoba_oil,niacinamide,shea_butter",0,1,1,1,17.88
+Cantu Balance Daily #23,Cantu,conditioner,2c,medium,"build_up,frizz","jojoba_oil,macadamia_oil,tea_tree",0,1,1,1,7.6
+Cantu Moisture Mist RX #24,Cantu,leave in,"2c,3a",medium,"damage,scalp_balance","castor_oil,rice_amino_acids,shea_butter,slippery_elm",0,1,0,0,9.76
+As I Am Renew Essentials #25,As I Am,shampoo,2c,"high,medium",build_up,"aloe,avocado_oil,hemp_seed_oil,shea_butter",0,1,0,1,9.56
+Not Your Mother's Define RX #26,Not Your Mother's,conditioner,2c,high,"shine,tangles","babassu_oil,hemp_seed_oil,macadamia_oil,rice_water",1,1,0,0,16.95
+Mielle Styling Milk RX #27,Mielle,leave in,"2b,2c,3a",high,"build_up,scalp_balance","grapeseed_oil,honey,macadamia_oil,rosewater,shea_butter",1,1,1,1,11.04
+Pattern Scalp Care Care #28,Pattern,shampoo,"3a,3b","high,low",dryness,"avocado_oil,coconut_oil,marshmallow_root,peppermint",0,1,1,1,6.55
+Cantu Balance RX #29,Cantu,conditioner,"2c,3a,3b","high,low",frizz,"castor_oil,macadamia_oil,mango_butter,niacinamide,slippery_elm",0,1,1,0,15.5
+Carol's Daughter Styling Milk Pro #30,Carol's Daughter,leave in,3a,"high,low",scalp_balance,"aloe,babassu_oil,keratin,macadamia_oil,mango_butter",1,1,1,1,8.15
+Briogeo Moisture RX #31,Briogeo,shampoo,3a,medium,manageability,"aloe,coconut_oil,hemp_seed_oil,rosewater",0,1,0,1,13.06
+Carol's Daughter Repair Boost #32,Carol's Daughter,conditioner,"2c,3a",medium,manageability,"coconut_oil,mango_butter,marshmallow_root,peppermint",0,1,1,0,8.97
+Curlsmith Softening Milk Pro #33,Curlsmith,leave in,"3a,3b","low,medium",manageability,"avocado_oil,mango_butter,marshmallow_root",1,1,1,1,15.35
+Giovanni Revive Glow #34,Giovanni,shampoo,"2c,3a,3b",high,build_up,"aloe,grapeseed_oil,marshmallow_root",0,1,1,0,12.11
+Cantu Hydration Daily #35,Cantu,conditioner,3a,"high,low",scalp_balance,"babassu_oil,castor_oil,panthenol,rice_amino_acids",0,1,0,0,9.38
+Carol's Daughter Leave-In Milk Daily #36,Carol's Daughter,leave in,"3a,3b",high,"build_up,definition","argan_oil,biotin,panthenol,peppermint",0,1,1,0,16.98
+TGIN Cleanse Essentials #37,TGIN,shampoo,"3a,3b",low,"damage,frizz","avocado_oil,niacinamide,shea_butter,tea_tree",0,1,1,0,14.43
+Kinky-Curly Slip Essentials #38,Kinky-Curly,conditioner,"3b,3c",low,"damage,dryness","coconut_oil,glycolipids,hemp_seed_oil,rice_water,shea_butter",0,1,1,0,8.22
+Giovanni Leave-In Milk Glow #39,Giovanni,leave in,3b,"high,low","build_up,tangles","avocado_oil,babassu_oil,hemp_seed_oil,peppermint",0,1,1,1,11.42
+As I Am Clarify Pro #40,As I Am,shampoo,"3b,3c",medium,manageability,"castor_oil,niacinamide,rosewater,tea_tree",0,1,1,1,13.44
+Pattern Replenish Essentials #41,Pattern,conditioner,"3b,3c",medium,"damage,tangles","avocado_oil,biotin,peppermint,rice_water,slippery_elm",0,1,1,1,10.99
+OGX Moisture Mist Care #42,OGX,leave in,"3b,3c",medium,"build_up,damage","castor_oil,shea_butter,tea_tree",0,1,0,1,13.83
+Mielle Moisture RX #43,Mielle,shampoo,3b,high,"manageability,shine","castor_oil,honey,slippery_elm",0,1,1,0,15.25
+Not Your Mother's Moisture Melt RX #44,Not Your Mother's,conditioner,"3a,3b,3c",high,build_up,"avocado_oil,babassu_oil,slippery_elm",0,1,1,1,7.37
+OGX Moisture Mist Silk #45,OGX,leave in,"3a,3b,3c",high,scalp_balance,"avocado_oil,babassu_oil,biotin,rosewater",0,1,1,1,13.33
+Mielle Renew Daily #46,Mielle,shampoo,"3b,3c,4a",low,"build_up,frizz","mango_butter,panthenol,tea_tree",0,1,1,1,11.75
+The Mane Choice Moisture Melt Essentials #47,The Mane Choice,conditioner,3c,low,manageability,"grapeseed_oil,niacinamide,rice_water",0,1,1,0,10.18
+Curlsmith Detangler Glow #48,Curlsmith,leave in,3c,low,tangles,"peppermint,rice_water,shea_butter",1,1,1,1,15.36
+As I Am Revive Daily #49,As I Am,shampoo,3c,medium,definition,"babassu_oil,jojoba_oil,rice_water,slippery_elm",0,1,1,0,11.22
+Briogeo Smooth Max #50,Briogeo,conditioner,"3b,3c,4a","high,medium","frizz,scalp_balance","niacinamide,panthenol,peppermint",0,1,1,1,7.11
+Carol's Daughter Softening Milk Essentials #51,Carol's Daughter,leave in,3c,"high,medium",damage,"babassu_oil,niacinamide,peppermint",1,1,1,1,17.99
+Cantu Clarify Essentials #52,Cantu,shampoo,3c,"high,low","breakage,build_up","aloe,hemp_seed_oil,niacinamide,rice_amino_acids",0,1,1,0,6.79
+Maui Moisture Smooth RX #53,Maui Moisture,conditioner,3c,high,"damage,manageability","aloe,jojoba_oil,marshmallow_root",0,1,1,0,16.15
+Curlsmith Softening Milk Essentials #54,Curlsmith,leave in,3c,high,scalp_balance,"jojoba_oil,niacinamide,peppermint",0,1,1,1,13.4
+Pattern Moisture Pro #55,Pattern,shampoo,4a,"low,medium",frizz,"jojoba_oil,macadamia_oil,marshmallow_root,rosewater",0,1,1,0,14.92
+Alaffia Slip RX #56,Alaffia,conditioner,"4a,4b",low,"manageability,shine","castor_oil,honey,jojoba_oil",0,1,0,1,7.3
+Cantu Moisture Mist Essentials #57,Cantu,leave in,"3c,4a",low,frizz,"honey,marshmallow_root,rosewater",0,1,1,1,7.98
+Aussie Nourish Silk #58,Aussie,shampoo,4a,medium,"build_up,tangles","aloe,argan_oil,babassu_oil,macadamia_oil,rice_amino_acids",0,1,1,1,8.26
+Aussie Moisture Melt Boost #59,Aussie,conditioner,4a,"low,medium","breakage,damage","coconut_oil,grapeseed_oil,rice_amino_acids",0,1,1,1,7.28
+TGIN Detangler Daily #60,TGIN,leave in,"3c,4a","high,medium","build_up,tangles","grapeseed_oil,hemp_seed_oil,keratin,shea_butter",1,1,0,1,6.72
+Briogeo Moisture Essentials #61,Briogeo,shampoo,"3c,4a","high,low","frizz,tangles","keratin,niacinamide,panthenol,rosewater",1,1,1,1,13.38
+The Mane Choice Replenish RX #62,The Mane Choice,conditioner,"3c,4a","high,low",frizz,"marshmallow_root,niacinamide,peppermint",0,1,0,1,8.07
+SheaMoisture Softening Milk Glow #63,SheaMoisture,leave in,"4a,4b",high,shine,"jojoba_oil,marshmallow_root,peppermint,rice_amino_acids,rice_water",0,1,1,0,8.45
+Briogeo Hydrate RX #64,Briogeo,shampoo,"4b,4c",low,scalp_balance,"argan_oil,biotin,mango_butter,peppermint,shea_butter",0,1,1,0,10.32
+Ouidad Hydration Boost #65,Ouidad,conditioner,"4b,4c",low,"definition,dryness","marshmallow_root,rice_amino_acids,rosewater",0,1,1,0,12.22
+As I Am Defining Cream Glow #66,As I Am,leave in,"4a,4b,4c",low,manageability,"babassu_oil,castor_oil,mango_butter,shea_butter,slippery_elm",1,1,1,0,12.88
+SheaMoisture Moisture Care #67,SheaMoisture,shampoo,4b,"low,medium",shine,"grapeseed_oil,jojoba_oil,marshmallow_root",0,1,1,1,16.9
+Curlsmith Balance Boost #68,Curlsmith,conditioner,"4b,4c",medium,"build_up,definition","avocado_oil,keratin,marshmallow_root,rice_amino_acids,rice_water",1,1,1,1,6.95
+As I Am Detangler Daily #69,As I Am,leave in,"4a,4b","high,medium",build_up,"niacinamide,shea_butter,slippery_elm",0,1,1,0,13.43
+Design Essentials Renew RX #70,Design Essentials,shampoo,4b,high,"build_up,damage","biotin,castor_oil,keratin,panthenol",1,1,1,1,8.7
+SheaMoisture Slip Boost #71,SheaMoisture,conditioner,"4b,4c",high,"dryness,tangles","castor_oil,grapeseed_oil,rice_amino_acids",0,1,1,1,7.09
+Carol's Daughter Leave-In Milk Essentials #72,Carol's Daughter,leave in,"4a,4b,4c",high,scalp_balance,"glycolipids,honey,keratin,tea_tree",1,1,1,1,11.07
+Carol's Daughter Hydrate Pro #73,Carol's Daughter,shampoo,4c,low,"frizz,tangles","aloe,avocado_oil,castor_oil,mango_butter,peppermint",1,1,1,0,13.92
+Design Essentials Smooth Glow #74,Design Essentials,conditioner,4c,"low,medium","definition,shine","argan_oil,niacinamide,shea_butter",1,1,1,0,8.27
+Aussie Defining Cream Care #75,Aussie,leave in,"4b,4c","high,low",manageability,"aloe,glycolipids,hemp_seed_oil,peppermint,tea_tree",0,1,1,0,8.68
+TGIN Nourish Boost #76,TGIN,shampoo,"4b,4c",medium,"build_up,dryness","avocado_oil,glycolipids,mango_butter,slippery_elm,tea_tree",0,1,0,0,7.56
+OGX Balance Plus #77,OGX,conditioner,"4b,4c",medium,breakage,"biotin,peppermint,rice_amino_acids",0,1,0,0,15.15
+Alaffia Curl Spray Glow #78,Alaffia,leave in,4c,medium,"build_up,shine","keratin,peppermint,rice_amino_acids",1,1,1,0,8.3
+Mielle Clarify RX #79,Mielle,shampoo,"4b,4c",high,dryness,"babassu_oil,castor_oil,macadamia_oil",0,1,1,0,7.31
+Design Essentials Hydration Max #80,Design Essentials,conditioner,4c,high,damage,"argan_oil,honey,rice_water",1,1,0,0,15.91
+Camille Rose Curl Spray Boost #81,Camille Rose,leave in,"4b,4c",high,build_up,"aloe,avocado_oil,biotin,tea_tree",0,1,0,1,15.99
+Carol's Daughter Leave-In Milk Boost #82,Carol's Daughter,leave in,"2a,4a","high,low","dryness,manageability","coconut_oil,grapeseed_oil,keratin,macadamia_oil,rice_water",1,1,1,1,9.02
+Carol's Daughter Smooth RX #83,Carol's Daughter,conditioner,"2c,3b,4b",low,"definition,tangles","honey,macadamia_oil,marshmallow_root,rice_water",1,1,0,0,12.62
+Pattern Curl Primer Max #84,Pattern,leave in,"2b,4a",low,breakage,"avocado_oil,grapeseed_oil,tea_tree",0,1,1,1,17.54
+Alaffia Cleanse Silk #85,Alaffia,shampoo,"2c,3c","high,medium","definition,manageability","avocado_oil,keratin,macadamia_oil,niacinamide",1,1,1,1,14.52
+Cantu Hydrate Boost #86,Cantu,shampoo,"2c,3a,3c",high,"definition,shine","argan_oil,avocado_oil,hemp_seed_oil,rice_water",1,1,1,1,8.38
+Giovanni Styling Milk Daily #87,Giovanni,leave in,2b,"low,medium","damage,shine","aloe,peppermint,shea_butter,tea_tree",0,1,1,0,12.28
+The Mane Choice Moisture Mist Plus #88,The Mane Choice,leave in,"3a,4a","low,medium",frizz,"avocado_oil,babassu_oil,biotin,tea_tree",0,1,0,1,11.49
+Carol's Daughter Moisture Melt Glow #89,Carol's Daughter,conditioner,"2c,3c,4a",medium,damage,"argan_oil,avocado_oil,glycolipids,shea_butter",0,1,1,0,8.99
+Not Your Mother's Moisture Mist Care #90,Not Your Mother's,leave in,"2a,3c,4b","high,low","damage,manageability","jojoba_oil,mango_butter,peppermint",0,1,0,0,14.17
+The Mane Choice Moisture Melt Daily #91,The Mane Choice,conditioner,2b,medium,"breakage,build_up","grapeseed_oil,hemp_seed_oil,honey",0,1,0,0,18.92
+As I Am Clarify Pro #92,As I Am,shampoo,"3a,3c,4b","low,medium",breakage,"babassu_oil,grapeseed_oil,niacinamide,rosewater,tea_tree",0,1,1,0,10.92
+The Mane Choice Defining Cream Boost #93,The Mane Choice,leave in,"2a,2c,4b","high,medium","build_up,shine","babassu_oil,marshmallow_root,rice_amino_acids,tea_tree",1,1,0,1,10.28
+Design Essentials Hydrate Max #94,Design Essentials,shampoo,"2a,3c,4c",low,build_up,"argan_oil,castor_oil,keratin,rice_amino_acids",1,1,0,1,12.14
+Alaffia Repair Pro #95,Alaffia,conditioner,"2b,3b,4c",low,scalp_balance,"hemp_seed_oil,mango_butter,rosewater",0,1,1,1,9.42
+Alaffia Smooth Plus #96,Alaffia,conditioner,"2c,4b",medium,scalp_balance,"aloe,biotin,hemp_seed_oil,jojoba_oil,rosewater",0,1,1,1,12.31
+Camille Rose Softening Milk Pro #97,Camille Rose,leave in,"2a,3b,4c",medium,"frizz,scalp_balance","castor_oil,marshmallow_root,niacinamide,shea_butter",0,1,1,1,7.67
+OGX Hydration Care #98,OGX,conditioner,"3c,4a",medium,build_up,"biotin,marshmallow_root,panthenol,peppermint",0,1,1,1,18.68
+Aussie Slip Max #99,Aussie,conditioner,2b,"low,medium","damage,scalp_balance","argan_oil,grapeseed_oil,keratin,peppermint,shea_butter",1,1,1,1,18.01
+Curlsmith Detangler Daily #100,Curlsmith,leave in,"2a,2b,3a","high,medium",frizz,"argan_oil,jojoba_oil,niacinamide,shea_butter,tea_tree",0,1,1,1,16.77
